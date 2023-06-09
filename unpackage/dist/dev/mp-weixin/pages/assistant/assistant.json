@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "助手",
+  "usingComponents": {
+    "tabbar": "/components/tabbar/tabbar"
+  }
+}

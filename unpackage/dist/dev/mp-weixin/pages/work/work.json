@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "工作",
+  "usingComponents": {
+    "msg": "/components/msg/msg",
+    "tabbar": "/components/tabbar/tabbar"
+  }
+}

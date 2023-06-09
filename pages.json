@@ -1,0 +1,61 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/work/work",
+			"style": {
+				"navigationBarTitleText": "工作"
+			}
+		},
+		{
+			"path": "pages/assistant/assistant",
+			"style": {
+				"navigationBarTitleText": "助手"
+			}
+		},
+		{
+			"path": "pages/main/main",
+			"style": {
+				"navigationBarTitleText": "常用"
+			}
+		},
+		{
+			"path": "pages/analysis/analysis",
+			"style": {
+				"navigationBarTitleText": "分析"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {},
+	"tabBar": {
+		"custom":true,
+		"list": [{
+				"pagePath": "pages/work/work"
+			},
+			{
+				"pagePath": "pages/assistant/assistant"
+			},
+			{
+				"pagePath": "pages/main/main"
+			},
+			{
+				"pagePath": "pages/analysis/analysis"
+			},
+			{
+				"pagePath": "pages/my/my"
+			}
+		]
+	
+}
+  }

@@ -1,0 +1,1 @@
+<view><view>我是助手页面</view><tabbar vue-id="24b91bfc-1" pagePath="pages/assistant/assistant" bind:__l="__l"></tabbar></view>

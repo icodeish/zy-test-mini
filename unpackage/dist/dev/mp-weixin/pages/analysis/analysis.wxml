@@ -1,0 +1,1 @@
+<view><view>我是分析页面</view><tabbar vue-id="1076b3c0-1" pagePath="pages/analysis/analysis" bind:__l="__l"></tabbar></view>

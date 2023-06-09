@@ -1,0 +1,1 @@
+<view class="container"><image class="msg_img _img" src="{{$root.m0}}" alt></image><view class="brdge"><view>77</view></view></view>

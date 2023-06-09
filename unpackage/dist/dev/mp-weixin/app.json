@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/work/work",
+    "pages/assistant/assistant",
+    "pages/main/main",
+    "pages/analysis/analysis",
+    "pages/my/my"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "custom": true,
+    "list": [
+      {
+        "pagePath": "pages/work/work"
+      },
+      {
+        "pagePath": "pages/assistant/assistant"
+      },
+      {
+        "pagePath": "pages/main/main"
+      },
+      {
+        "pagePath": "pages/analysis/analysis"
+      },
+      {
+        "pagePath": "pages/my/my"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

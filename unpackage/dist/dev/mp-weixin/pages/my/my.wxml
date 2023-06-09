@@ -1,0 +1,1 @@
+<view><view>我是我的页面</view><tabbar vue-id="704e9d00-1" pagePath="pages/my/my" bind:__l="__l"></tabbar></view>

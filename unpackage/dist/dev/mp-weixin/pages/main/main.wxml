@@ -1,0 +1,1 @@
+<view class="container"><view>我是常用页面</view><tabbar vue-id="0bdc0520-1" pagePath="pages/main/main" bind:__l="__l"></tabbar></view>

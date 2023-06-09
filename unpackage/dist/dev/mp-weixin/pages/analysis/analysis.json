@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "分析",
+  "usingComponents": {
+    "tabbar": "/components/tabbar/tabbar"
+  }
+}
